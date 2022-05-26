@@ -1,8 +1,10 @@
 body{
-    background-color: gray;
+    background-color: #181414;
 }
 h1, h2, h3, h4, h5, h6{
-    color: rgb(116, 234, 255);
+    color: #5ffff8;
 }
-
+a, a:visited{
+    color: #56e5a3;
+}
 
