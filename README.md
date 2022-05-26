@@ -64,5 +64,5 @@
 * [Garry's Mod Death Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2788453409)
 
 <style>
-import url("style.css");
+@import url("style.css");
 </style>
