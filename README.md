@@ -62,3 +62,7 @@
 * [Spolszczenie (Repentance)](https://steamcommunity.com/sharedfiles/filedetails/?id=2488075192)
 * [Skill Issue Logo](https://steamcommunity.com/sharedfiles/filedetails/?id=2811034554)
 * [Garry's Mod Death Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2788453409)
+
+<style>
+import url("style.css");
+</style>
