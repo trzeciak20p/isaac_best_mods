@@ -3,6 +3,10 @@ body{
 }
 h1, h2, h3, h4, h5, h6{
     color: #5ffff8;
+    font-family: Century Gothic;
+}
+h2{
+    font-size: 30px !important;
 }
 a, a:visited{
     color: #56e5a3;
