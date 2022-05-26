@@ -66,4 +66,3 @@
 
 
 <?php include "header.html" ?>
-<style> @import url("style.css"); </style>
