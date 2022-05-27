@@ -67,7 +67,7 @@
 
 <style> @import url("style.css"); </style>
 <script> 
-document.getElementByClassName("h1").innerText = "Isaac Best Mods"
+document.querySelector("h1 a").innerText = "Isaac Best Mods"
 
 
 <script>
