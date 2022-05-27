@@ -65,4 +65,9 @@
 
 
 
-<?php include "header.html" ?>
+<style> @import url("style.css"); </style>
+<script> 
+document.getElementByClassName("h1").innerText = "Isaac Best Mods"
+
+
+<script>
